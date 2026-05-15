@@ -4,8 +4,4 @@ https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&l
 
 https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white
 
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-
-
-
-<a href="https://vk.com/agriseptl"> <img src="{(https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)}" /> </a>
+<a href="https://vk.com/agriseptl"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a>
