@@ -40,8 +40,10 @@ i'm a beginner programmer in the field of backend development. During my studies
 *   [Skyscanner Flight API client](https://github.com/romankh3/skyscanner-flight-api-client) - Published on Maven Central Java Client for a Skyscanner Flight Search API hosted in Rapid API
 *   [Flights-monitoring](https://github.com/romankh3/flights-monitoring) - Application for monitoring flight cost based on Skyscanner API
 
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/romankh3/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=agrisept&color=DE002D">
-   </a>
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Agrisept&color=0d1117&style=flat-square&label=views)](https://github.com/Agrisept)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/Agrisept?style=flat-square&color=0d1117&labelColor=22d3ee&logo=github)](https://github.com/Agrisept)
+
 </div>
