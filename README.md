@@ -3,10 +3,13 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWY4cGdnN2xxMWx1NHR2bnhwMnRwNmxjeHVpZGpvNzB5a3pjZTg3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif"/>
   <p>
     <strong>Computer Science Student</strong><br/>
-    Fullstack Developer • Mobile • UI/UX
+    Fullstuck Developer • Web Design • UI/UX
   </p>
 </div>
+
+<div align='center'>
 i'm a beginner programmer in the field of backend development. During my studies, I mastered the fundamentals of server-side logic and database management. I am looking for a Junior Developer position or an internship where I can apply my Python knowledge.
+</div>
 
 <div align='center'>
    <a href="https://t.me/+EWaJpHHSEGxkNThi"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a>
