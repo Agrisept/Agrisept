@@ -22,23 +22,27 @@ i'm a beginner programmer in the field of backend development. During my studies
 
 
 ### Key points
-*   creator of [Javarush Community](https://github.com/javarushcommunity) and [Template Repository](https://github.com/template-repository) organizations.
-*   creator and author of [romankh3](https://t.me/romankh3) telegram channel. Subscribe to recieve messages about my open-source activities.
-*   Write posts about software development.
-*   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
+*   Responsive interface development (mobile first → desktop).
+*   Information systems design
+*   Web technologies and server-side development
+*   HTTP protocol: GET/POST/PUT/DELETE methods, response status codes.
+*   DevTools: browser debugging, performance analysis, mobile device emulation.
+*   UI/UX: Prototyping and modern interface design with Figma.
 
 ## 🛠 Technical Stack
 *   Java script / Python languages
 *   MySQL, MongoDB
 *   Flask Framework
 *   GitHub/GitLab
+*   Figma, Adobe Photoshop, Adobe After Effects, Adobe Animate, Adobe Illustrator, Adobe Indesign, Adobe Premiere Pro, Blender
 
 ### My opensource projects
 
-*   [image-comparison](https://github.com/romankh3/image-comparison) - Published on Maven Central Java Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
-*   [JavaRush TelegramBot](https://github.com/javarushcommunity/javarush-telegrambot) - JavaRush Telegram bot from the community to the community
-*   [Skyscanner Flight API client](https://github.com/romankh3/skyscanner-flight-api-client) - Published on Maven Central Java Client for a Skyscanner Flight Search API hosted in Rapid API
-*   [Flights-monitoring](https://github.com/romankh3/flights-monitoring) - Application for monitoring flight cost based on Skyscanner API
+*   [TelegramAgriBotTelegramAgriBot](https://github.com/Agrisept/TelegramAgriBot) - Telegram bot built with Python.
+*   [PythonArcade_CollectorGame](https://github.com/Agrisept/PythonArcade_CollectorGame) - Platformer game with item collecting and achievement system in Python.
+*   [BeautifulHT](https://github.com/Agrisept/BeautifulHT/tree/main) - Age verification project (user age input checker).
+*   [Vercel_mysite](https://github.com/Agrisept/Vercel_mysite) - Animated film promotional website created in Adobe After Effects, deployed via Vercel.
+*   [KOSMONAVT_VKR](https://github.com/Agrisept/KOSMONAVT_VKR) - Graduation project: Cinema website with a booking system and integrated admin panel for managing movie sessions.
 
 <div align="center">
 
