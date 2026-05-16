@@ -1,4 +1,4 @@
-## Hi, i'm Ksusha 👋
+<div align='center'> ## Hi, i'm Ksusha 👋</div>
 i'm a beginner programmer in the field of backend development. During my studies, I mastered the fundamentals of server-side logic and database management. I am looking for a Junior Developer position or an internship where I can apply my Python knowledge.
 
 <div align='center'>
