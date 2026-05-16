@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi, i'm Ksusha 👋
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3amNyOWw0ZXdpODN1eXd2MGVvbm00YWx4aDZmZm1lZTY2N2E5YnRzYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wwg1suUiTbCY8H8vIA/giphy.gif"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhuc2tuZzd5ZzJ3ZXQyNzN2Nmp1am5iMGE0ZHhqN3B3NW4wbGo1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYuxp3Rjlrka8mY/giphy.gif"/>
 </h1>
 i'm a beginner programmer in the field of backend development. During my studies, I mastered the fundamentals of server-side logic and database management. I am looking for a Junior Developer position or an internship where I can apply my Python knowledge.
 
