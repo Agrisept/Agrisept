@@ -11,7 +11,7 @@
 i'm a beginner programmer in the field of backend development. During my studies, I mastered the fundamentals of server-side logic and database management. I am looking for a Junior Developer position or an internship where I can apply my Python knowledge.
 </div>
 
-<div align='center' style='margin:5px'>
+<div align='center' style='padding:15px'>
    <a href="https://t.me/+EWaJpHHSEGxkNThi"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a>
    <a href="https://www.behance.net/ksunev"> <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" /> </a>
 </div>
